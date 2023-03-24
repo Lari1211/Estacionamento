@@ -1,0 +1,30 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   }
+
+h1{
+    text-align: center;
+}
+
+   table{
+    border-collapse:separate;
+    border: 1px solid #ededed;
+   }
+   
+   tbody tr {
+    height: 40px;
+    border-bottom: 1px solid #ededed;
+    background-color: #fbfbfb;
+    text-align: center;
+   }
+
+   th, td{
+    border-bottom: 1px solid #ddd;
+   }
+   
+   .title {
+    background-color: #305c47;
+    height: 30px;
+    color: #fff;
+    font-size: 26px;
+   }
